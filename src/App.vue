@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="안녕 나는 함건유" />
+  <HelloWorld msg="안녕 나는 함건유 반가워" />
 </template>
 
 <script>
